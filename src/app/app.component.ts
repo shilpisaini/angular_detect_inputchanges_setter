@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-detect-inputchanges';
+  name: string = "Shilpi";
+
 }
